@@ -1,0 +1,46 @@
+[
+  {
+    "hospid": "HOSP23G108570",
+    "hospname": "REGIONAL HOSPITAL KOTMA COLLIERY",
+    "statecode": "23",
+    "state": "MADHYA PRADESH",
+    "districtid": "390",
+    "district": "ANUPPUR",
+    "hospcontactno": "9407146406",
+    "hospaddress": "REGIONAL HOSPITAL KOTMA COLLIERY",
+    "hosptype": "Public"
+  },
+  {
+    "hospid": "HOSP23G100602",
+    "hospname": "COMMUNITY HEALTH CENTER VENKATNAGAR",
+    "statecode": "23",
+    "state": "MADHYA PRADESH",
+    "districtid": "390",
+    "district": "ANUPPUR",
+    "hospcontactno": "9406775224",
+    "hospaddress": "423,venkatnagar river,post- jaitehri",
+    "hosptype": "Public"
+  },
+  {
+    "hospid": "HOSP23G100450",
+    "hospname": "CHC FUNGA",
+    "statecode": "23",
+    "state": "MADHYA PRADESH",
+    "districtid": "390",
+    "district": "ANUPPUR",
+    "hospcontactno": "9406775224",
+    "hospaddress": "GRAM FUNGA",
+    "hosptype": "Public"
+  },
+  {
+    "hospid": "HOSP23G100424",
+    "hospname": "COMUNITY HEALTH CENTER PARASI",
+    "statecode": "23",
+    "state": "MADHYA PRADESH",
+    "districtid": "390",
+    "district": "ANUPPUR",
+    "hospcontactno": "9406775224",
+    "hospaddress": "GRAM PARASI, LATAR ROAD",
+    "hosptype": "Public"
+  }
+]
